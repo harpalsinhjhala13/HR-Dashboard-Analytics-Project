@@ -1,4 +1,5 @@
 # HR-Dashboard-Analytics-Project
+<img width="607" alt="P2 1" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/29b65d46-afa6-40d1-a89d-fbe195e29c89">
 
 In this porject I have
 
