@@ -10,3 +10,4 @@ In this porject I have
 5) Key Insights about attrition rate and measure to stop attrition identifying key insights.
 6) Identified Key factors that result in highest attrition such as,
 Job Roles and salary brackets, experience and age of employees.
+<img width="602" alt="P2 5" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/c47aa68d-2bdf-4a28-9cd1-fda39fac7819">
