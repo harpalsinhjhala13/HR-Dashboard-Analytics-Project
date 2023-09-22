@@ -1,5 +1,6 @@
 # HR-Dashboard-Analytics-Project
-<img width="607" alt="P2 1" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/29b65d46-afa6-40d1-a89d-fbe195e29c89">
+<img width="605" alt="p22 1" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/0d7ccb4f-bfef-43f4-a42d-94ce87836355">
+
 
 In this porject I have
 
@@ -10,4 +11,5 @@ In this porject I have
 5) Key Insights about attrition rate and measure to stop attrition identifying key insights.
 6) Identified Key factors that result in highest attrition such as,
 Job Roles and salary brackets, experience and age of employees.
-<img width="602" alt="P2 5" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/c47aa68d-2bdf-4a28-9cd1-fda39fac7819">
+
+![image](https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/77ae1441-061e-4699-ae30-27eaf0206db7)
