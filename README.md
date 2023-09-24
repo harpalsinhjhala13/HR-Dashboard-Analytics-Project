@@ -1,5 +1,9 @@
 # HR-Dashboard-Analytics-Project
-<img width="605" alt="p22 1" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/0d7ccb4f-bfef-43f4-a42d-94ce87836355">
+![image](https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/58dbd0ef-b9e8-4764-8454-f09d96815d39)
+
+
+
+
 
 
 
