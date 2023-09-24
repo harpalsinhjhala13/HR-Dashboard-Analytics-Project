@@ -2,6 +2,8 @@
 <img width="605" alt="p22 1" src="https://github.com/harpalsinhjhala13/HR-Dashboard-Analytics-Project/assets/141703984/0d7ccb4f-bfef-43f4-a42d-94ce87836355">
 
 
+
+https://shorturl.at/jFJX5
 In this porject I have
 
 1) Performed Data Cleaning and manipulation
